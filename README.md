@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on a Decision Support System for Precision Medicine
+- 📫 How to reach me: my first name at my lastname dot com
+
+## 📈 Interested in Stats?
+
+Most of my professional work is unfortunately behind private repositories, but here are some stats nonetheless if you are interested in those kind of things 
+![Vaucouleur's Github Stats](https://github-readme-stats.vercel.app/api?username=vaucouleur&show_icons=true&theme=radical&count_private=true)
+
 <!--
 **vaucouleur/vaucouleur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
