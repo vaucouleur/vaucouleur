@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Decision Support System for Precision Medicine
 - 📫 How to reach me: my first name at my lastname dot com
 
-## 📈 Interested in Stats?
+#### 📈 Stats
 
 Most of my professional work is unfortunately behind private repositories. But here are some stats nonetheless, if you are interested in those kind of things:
 
