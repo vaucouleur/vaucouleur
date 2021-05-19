@@ -6,7 +6,7 @@
 
 #### 📈 Stats
 
-Most of my professional work is unfortunately behind private repositories. But here are some stats nonetheless, if you are interested in those kind of things:
+Most of my professional work is unfortunately behind private repositories. But here are some stats nonetheless:
 
 ![Vaucouleur's Github Stats](https://github-readme-stats.vercel.app/api?username=vaucouleur&show_icons=true&theme=radical&count_private=true)
 
