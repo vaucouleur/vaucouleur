@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on a Decision Support System for Precision Medicine
+- 🔭 I’m currently working on Data mining tools and Decision Support System for Precision Medicine
 - 📫 How to reach me: my first name at my lastname dot com
 
 <!--
-
 #### 📈 Stats
 
 Most of my professional work is unfortunately behind private repositories. But here are some stats nonetheless:
